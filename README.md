@@ -16,6 +16,7 @@ This is a React To do list app developed by me to learn and enhance my react ski
   - State management
   - data processing
   - Error resolving
+  --------------
 
   ## Screen-shots
 ![Screenshot 2023-08-11 215157](https://github.com/MaheshRautrao/React-Todo-list/assets/101188065/04005ab9-b684-493e-8898-afd86bbcaca0)
